@@ -3,4 +3,4 @@ head-Heading
 
 par-Paragraph
 
-link-Image Address alt- Image Alt size-full
+link-/assets/blogs/graphic design/img1.jpg alt- vector art size-70
