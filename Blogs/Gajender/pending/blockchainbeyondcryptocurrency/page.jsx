@@ -21,7 +21,7 @@ link-https://diro.io/wp-content/uploads/2021/05/identity-verification-solutions.
 
 par-Identity theft and data breaches are pervasive concerns in the digital age. Blockchain offers a solution by providing a secure and verifiable way to manage digital identities. Instead of relying on centralized databases vulnerable to hacks, individuals can control their own identity information stored on a blockchain. This empowers users to selectively share personal data while maintaining privacy and security.
 
-link-https://builtin.com/cdn-cgi/image/f=auto alt-quality=80 size-70
+link-https://token-information.com/wp-content/uploads/2021/11/smart_contract_what_is_the_header.jpg alt- Smart Contracts size-70
 
 head-Smart Contracts
 
